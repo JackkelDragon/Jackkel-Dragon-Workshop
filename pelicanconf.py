@@ -43,7 +43,12 @@ STATIC_PATHS = ['images', "theme/css"]
 CSS_FILE = "custom.css"
 
 MENUITEMS = [("Home", "index"), ("Nightshade", "nightshade"), ("Kigenishi", "kigenishi"), ("Tarishu", "tarishu"), ("Standalone", ""), ("Fanworks", "fanworks")]
+MENUITEMS.append(("Streaming Guidelines", "streaming_guidelines"))
 MENUITEMS.append(("Updates", "updates"))
 
 RELATIVE_URLS = True
 DELETE_OUTPUT_DIRECTORY = True
+
+## https://github.com/pelican-plugins/markdown-include
+MD_INCLUDE_BASE_PATH = "content/includes/"
+## syntax: {!filename!}
