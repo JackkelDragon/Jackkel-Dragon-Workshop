@@ -1,5 +1,5 @@
 .bookdetailsbg {
-  background-color: #9999bb;
+  background-color: #bbbbcc;
 }
 
 .bookdetails {
@@ -9,7 +9,7 @@
     "footer footer";
   grid-template-columns: 1fr 1fr;
   gap: 3px;
-  background-color: #9999bb;
+  background-color: #bbbbcc;
   padding: 5px;
 }
 .bookdetails summary {
@@ -23,11 +23,14 @@
 }
 .bookdetails div.info {
   grid-area: info;
-  text-align: center; 
+  text-align: center;
+  justify-content: center;
 }
 .bookdetails div.info a {
+  color: #ffffff;
   background-color: #444444;
   border-radius: 25px;
+  padding: 12px;
 }
 .bookdetails div.footer {
   grid-area: footer;

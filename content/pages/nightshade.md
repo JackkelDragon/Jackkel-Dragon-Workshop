@@ -8,17 +8,40 @@ These stories take place in the Nightshade universe, a setting based on our worl
 	<div class="bookdetails">
   		<div class="promoimg"><img src="images/cover_shireishi.png"></div>
   		<div class="info"><h1>Shireishi</h1><a href="https://books2read.com/b/bzxwN2">Where to Read</a><p>Cover Design: Hollie Moir</p></div>
-  		<div class="footer"><h4>A horror/mystery anthology of connected short stories. In the Fall of 2015, a new smartphone application turns a quiet town upside down. Claiming to put its users in contact with a ghost, the program is quickly blamed for a sudden crime wave. A group of students from Hikarimirai Academy quickly discovers that these are not merely rumors, but the start of something sinister that has been long in the making.</h4>
+  		<div class="footer"><p>A horror/mystery anthology of connected short stories. In the Fall of 2015, a new smartphone application turns a quiet town upside down. Claiming to put its users in contact with a ghost, the program is quickly blamed for a sudden crime wave. A group of students from Hikarimirai Academy quickly discovers that these are not merely rumors, but the start of something sinister that has been long in the making.</p>
   	</div></div>
 </details>
 <details class="bookdetailsbg">
 	<summary>The Decision</summary>
 	<div class="bookdetails">
-  		<div class="promoimg"><img src="cover_shireishi.png"></div>
+  		<div class="promoimg"><img src="images/cover_thedecision.jpg"></div>
   		<div class="info"><h1>The Decision</h1><a href="https://books2read.com/b/mloeEP">Where to Read</a><p>Cover Design: 7AHO</p></div>
-  		<div class="footer"><h4>A romantic drama short story. The loner and class pariah Tsukiko Wakahisa has a crush on a classmate who treated her with kindness despite the bullying she receives from others. With the help of her best friend, she tries to find a way to get together with her crush. But as she tries to force this relationship to work, she wonders if this is truly something that should be...</h4>
+  		<div class="footer"><p>A romantic drama short story. The loner and class pariah Tsukiko Wakahisa has a crush on a classmate who treated her with kindness despite the bullying she receives from others. With the help of her best friend, she tries to find a way to get together with her crush. But as she tries to force this relationship to work, she wonders if this is truly something that should be...</p>
   	</div></div>
 </details>
-
-MakeDetailsBox("Shireishi", "imglink1", ("Where to Read", "https://books2read.com/b/bzxwN2"), "Cover Design: Hollie Moir", "A horror/mystery anthology of connected short stories. In the Fall of 2015, a new smartphone application turns a quiet town upside down. Claiming to put its users in contact with a ghost, the program is quickly blamed for a sudden crime wave. A group of students from Hikarimirai Academy quickly discovers that these are not merely rumors, but the start of something sinister that has been long in the making.")
-MakeDetailsBox("The Decision", "imglink2", ("Where to Read", "https://books2read.com/b/mloeEP"), "Cover Design: 7AHO", "A romantic drama short story. The loner and class pariah Tsukiko Wakahisa has a crush on a classmate who treated her with kindness despite the bullying she receives from others. With the help of her best friend, she tries to find a way to get together with her crush. But as she tries to force this relationship to work, she wonders if this is truly something that should be…")
+<details class="bookdetailsbg">
+	<summary>Family</summary>
+	<div class="bookdetails">
+  		<div class="promoimg"><img src="images/cover_family.jpg"></div>
+  		<div class="info"><h1>Family</h1><a href="https://books2read.com/b/mloeEP">Where to Read</a><p>Cover Design: 7AHO</p></div>
+  		<div class="footer"><p>A romantic drama short story. The Hayashi family is not an ordinary family, as it isn’t based on a shared bloodline. Nishie’s family consists of a foster mother and her girlfriend. Said girlfriend, Kachi Sato, has become distant from her parents after years of neglect. While the two girls go on a vacation before starting at university, Nishie’s mother works tirelessly to undo the damage that Kachi’s parents have caused before it’s too late. For all three of these women, their family was chosen, not born into.</p>
+  	</div></div>
+</details>
+<details class="bookdetailsbg">
+	<summary>Those That Linger: GhostSense</summary>
+	<div class="bookdetails">
+  		<div class="promoimg"><img src="images/cover_ttlgs.jpg"></div>
+  		<div class="info"><h1>Those That Linger: GhostSense</h1><a href="https://books2read.com/b/mloeEP">Where to Read</a><p>Cover Design: 7AHO</p></div>
+  		<div class="footer"><p>A paranormal tragedy short story. Ishiko Yanagi has always been fascinated with death and the supernatural, and finds a kindred spirit in Asumi Niwa. Hoping to make paranormal studies a more acceptable field in the eyes of the public, they set out to make it possible for anyone to observe ghosts. But with their zeal for knowledge and recognition, they sometimes forget the very real danger in tampering with phenomena outside of human understanding...</p>
+  	</div></div>
+</details>
+<details class="bookdetailsbg">
+	<summary>
+h+ Cybernetic Daily Life</summary>
+	<div class="bookdetails">
+  		<div class="promoimg"><img src="images/cover_hplus1.jpg"></div>
+  		<div class="info"><h1>
+h+ Cybernetic Daily Life</h1><a href="https://books2read.com/b/38N5wO">Where to Read</a><p>Cover Design: 7AHO</p></div>
+  		<div class="footer"><p>A slice-of-life, coming-of-age novella with science fiction elements. Hatsu Kamiya was disabled during an accident at a young age, losing most of the use of her limbs. Given the chance to test prototype cybernetic replacements for free, she jumps at the chance to return to being “normal”. Unfortunately for her, fitting in as she was may no longer be possible...</p>
+  	</div></div>
+</details>
