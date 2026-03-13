@@ -1,9 +1,0 @@
-/* Imports */
-@import url("main.css");
-@import url("bookdetails.css");
-
-/***** Global *****/
-/* Body */
-body {
-    font-size: 112.0%; /* Base font size: */
-}
