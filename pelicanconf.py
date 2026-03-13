@@ -39,5 +39,8 @@ INDEX_SAVE_AS = 'updates.html'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
+STATIC_PATHS = ['images', "theme/css"]
+CSS_FILE = "custom.css"
+
 MENUITEMS = [("Home", "index"), ("Nightshade", "nightshade"), ("Kigenishi", "kigenishi"), ("Tarishu", "tarishu"), ("Standalone", ""), ("Fanworks", "fanworks")]
 MENUITEMS.append(("Updates", "updates"))
