@@ -1,6 +1,7 @@
 /* Imports */
 @import url("main.css");
 @import url("bookdetails.css");
+@import url("gamedetails.css");
 @import url("refdetails.css");
 @import url("logoplustext.css");
 
@@ -8,12 +9,14 @@
 /* Body */
 body {
     font-size: 112.0%; /* Base font size: */
+    background: #4D4D4D;
 }
 
 /* Lists */
 ul {
     list-style: outside disc;
     margin: 0em 0 0 1.5em;
+    margin-bottom: 1.2em;
 }
 
 ol {
@@ -23,3 +26,18 @@ ol {
 
 li { margin-top: 0.3em;
     margin-bottom: 0.3em; }
+
+/* Top Links */
+#banner nav a:link, #banner nav a:visited {
+    padding-right: 1.2em;
+    padding-left: 1.2em;
+}
+
+/* Bottom Links */
+#extras a:link, #extras a:visited {
+    color: #dfdfdf;
+    display: block;
+    border-bottom: 1px solid #F4E3E3;
+    text-decoration: none;
+    padding: .3em .25em;
+}
