@@ -47,7 +47,7 @@ MENUITEMS.append(("Streaming Guidelines", "streaming_guidelines"))
 MENUITEMS.append(("Art References", "character_references"))
 MENUITEMS.append(("Updates", "updates"))
 
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 DELETE_OUTPUT_DIRECTORY = True
 
 ## https://github.com/pelican-plugins/markdown-include
