@@ -1,0 +1,23 @@
+.logoplustext {
+}
+
+.logoplustext td {
+  width: 50%;
+  vertical-align: middle;
+}
+
+.logoplustext h2 {
+  text-align: center;
+  color: #ffffff;
+  background-color: #444444;
+  border-radius: 25px;
+  padding: 12px;
+}
+
+.logoplustext a {
+  text-decoration: none;
+}
+
+.logoplustext a:hover {
+  background-color: white;
+}
