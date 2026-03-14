@@ -1,7 +1,7 @@
 Title: Character Art Reference Information
 save_as: character_references.html
 
-This page contains reference information that might be useful when creating art of certain characters from my stories. The contents of this reference information may include spoilers for the stories or characters involved.
+This page contains reference information that might be useful when creating art of certain characters from my stories. The contents of this reference information includes **spoilers** for the stories and characters involved.
 
 <font color="red">*This page is currently a work in progress, and will remain so for the foreseeable future.*</font>
 
@@ -33,22 +33,49 @@ This page contains reference information that might be useful when creating art 
 - [Kagami Nakayama]({filename}character_art_refs/kagami.md)
 - [Kasumi Kawamura]({filename}character_art_refs/kasumi.md)
 - [Misaki Asahara]({filename}character_art_refs/misaki.md)
-- [Junka Fujikawa]({filename}character_art_refs/junka.md)
-- [Machi Hirata]({filename}character_art_refs/machi.md)
-- [Honoka Nakayama]({filename}character_art_refs/honoka.md)
-- [Aina Shimizu]({filename}character_art_refs/aina.md)
-- [Aoi Matsumoto]({filename}character_art_refs/aoi.md)
+- Junka Fujikawa
+- Machi Hirata
+- Honoka Nakayama
+- Aina Shimizu
+- Aoi Matsumoto
 - [Miyuki Kouki]({filename}character_art_refs/miyuki.md)
+
+***
+
+#Kigenishi
+*Characters originating from stories in the Kigenishi setting.*
+
+- [Mizuyo]({filename}character_art_refs/mizuyo.md)
+- [Kana]({filename}character_art_refs/kana.md)
+- Rin
+- [In-suk]({filename}character_art_refs/insuk.md)
+- In-shik
+- Sachihana
+- Osan
+- Hiyori
+- So-hee
+- Won-shik
+- Mul \[Great Spirit of Water\]
+- Bul \[Great Spirit of Fire\]
+
+***
+
+#Tarishu
+*Characters originating from stories in the Tarishu setting.*
+
+- Sangmi
+- Gunnar
+- Hageum
 
 ***
 
 #Unsorted Characters
 *Characters originating from other stories that have yet to be organized.*
 
-- [Tsukiko Wakahisa]({filename}character_art_refs/tsukiko.md)
-- [Ayuka Sawada]({filename}character_art_refs/ayuka.md)
-- [Makoto Tashiro]({filename}character_art_refs/makoto.md)
-- [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
+- Tsukiko Wakahisa
+- Ayuka Sawada
+- Makoto Tashiro
+- Kyoko Hayashi
 - Shizuka Hirose
 - Yuri Tachibana
 - Nishie Hayashi
