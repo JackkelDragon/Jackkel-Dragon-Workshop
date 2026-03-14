@@ -50,7 +50,7 @@ MENUITEMS.append(("Updates", "../updates"))
 RELATIVE_URLS = False ## this broke some stuff when true
 DELETE_OUTPUT_DIRECTORY = True
 
-ARTICLE_URL = ARTICLE_SAVE_AS = '{slug}.html'
+ARTICLE_URL = ARTICLE_SAVE_AS = 'posts/{slug}.html'
 PAGE_URL = PAGE_SAVE_AS = '{category}/{slug}.html' #'pages/{slug}.html'
 
 ## https://github.com/pelican-plugins/markdown-include
