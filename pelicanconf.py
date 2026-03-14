@@ -1,5 +1,5 @@
 AUTHOR = 'Jackkel Dragon'
-SITENAME = "Jackkel Dragon's Workshop"
+SITENAME = "<img src=\"images/jackkel website logo v2.png\" alt=\"Jackkel Dragon's Workshop\">" ## "Jackkel Dragon's Workshop"
 SITEURL = ""
 
 PATH = "content"
@@ -17,16 +17,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("Books2Read", "https://books2read.com/ap/n4pgpK/"),
+    ("Steam Games", "https://store.steampowered.com/developer/NightshadeDev"),
+    ("itch.io  Games", "https://jackkel-dragon.itch.io/"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("Bluesky", "https://bsky.app/profile/jackkel-dragon.bsky.social"),
 )
 
 DEFAULT_PAGINATION = False
@@ -42,7 +40,7 @@ DISPLAY_PAGES_ON_MENU = False
 STATIC_PATHS = ['images', "theme/css"]
 CSS_FILE = "custom.css"
 
-MENUITEMS = [("Home", "index"), ("Nightshade", "nightshade"), ("Kigenishi", "kigenishi"), ("Tarishu", "tarishu"), ("Standalone", ""), ("Fanworks", "fanworks")]
+MENUITEMS = [("Home", "index"), ("Nightshade", "nightshade"), ("Kigenishi", "kigenishi"), ("Tarishu", "tarishu"), ("Standalone", "standalone"), ("Fanworks", "fanworks")]
 MENUITEMS.append(("Streaming Guidelines", "streaming_guidelines"))
 MENUITEMS.append(("Art References", "character_references"))
 MENUITEMS.append(("Updates", "updates"))

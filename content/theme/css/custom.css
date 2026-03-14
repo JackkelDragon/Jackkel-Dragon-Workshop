@@ -2,9 +2,24 @@
 @import url("main.css");
 @import url("bookdetails.css");
 @import url("refdetails.css");
+@import url("logoplustext.css");
 
 /***** Global *****/
 /* Body */
 body {
     font-size: 112.0%; /* Base font size: */
 }
+
+/* Lists */
+ul {
+    list-style: outside disc;
+    margin: 0em 0 0 1.5em;
+}
+
+ol {
+    list-style: outside decimal;
+    margin: 0em 0 0 1.5em;
+}
+
+li { margin-top: 0.3em;
+    margin-bottom: 0.3em; }
