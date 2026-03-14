@@ -40,10 +40,11 @@ DISPLAY_PAGES_ON_MENU = False
 STATIC_PATHS = ['images', "theme/css"]
 CSS_FILE = "custom.css"
 
-MENUITEMS = [("Home", "index"), ("Nightshade", "nightshade"), ("Kigenishi", "kigenishi"), ("Tarishu", "tarishu"), ("Standalone", "standalone"), ("Fanworks", "fanworks")]
-MENUITEMS.append(("Streaming Guidelines", "streaming_guidelines"))
-MENUITEMS.append(("Art References", "character_references"))
-MENUITEMS.append(("Updates", "updates"))
+MENUITEMS = [("Home", "/index"), ("Nightshade", "/nightshade"), ("Kigenishi", "/kigenishi"), ("Tarishu", "/tarishu"), ("Standalone", "/standalone"), ("Fanworks", "/fanworks")]
+MENUITEMS.append(("Streaming/Presskits", "/streaming_guidelines"))
+MENUITEMS.append(("Art References", "/character_references"))
+MENUITEMS.append(("Archives", "/archives"))
+MENUITEMS.append(("Updates", "/updates"))
 
 RELATIVE_URLS = True
 DELETE_OUTPUT_DIRECTORY = True

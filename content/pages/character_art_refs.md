@@ -28,10 +28,48 @@ This page contains reference information that might be useful when creating art 
 #Eldritch Nightmare Duology
 *Characters originating from Eldritch Academy or Eldritch University.*
 
+- [Yue Ishikami](character_references.yue)
+- [Akomi Miyazaki](character_references.akomi)
+- [Cho Fukuda](character_references.cho)
+- [Kagami Nakayama](character_references.kagami)
+- [Kasumi Kawamura](character_references.kasumi)
+- [Misaki Asahara](character_references.misaki)
+- [Junka Fujikawa](character_references.junka)
+- [Machi Hirata](character_references.machi)
+- [Honoka Nakayama](character_references.honoka)
+- [Aina Shimizu](character_references.aina)
+- [Aoi Matsumoto](character_references.aoi)
+- [Miyuki Kouki](character_references.miyuki)
+
 ***
 
 #Unsorted Characters
 *Characters originating from other stories that have yet to be organized.*
+
+- [Tsukiko Wakahisa](character_references.tsukiko)
+- [Ayuka Sawada](character_references.ayuka)
+- [Makoto Tashiro](character_references.makoto)
+- [Kyoko Hayashi](character_references.kyoko)
+- Shizuka Hirose
+- Yuri Tachibana
+- Nishie Hayashi
+- Kachi Hayashi
+- Hatsu Kamiya
+- Akina Komatsu
+- Ishiko Yanagi
+- Asumi Niwa
+- Kotoe Sugihara
+- Miraru Fujioka
+- Hoshiko Niiya
+- Mizuki Kawajiri
+- Nekana Aoki
+- Aika Uchida
+- Sumire Maruyama
+- Asa Maruyama
+- Rashmi Kushik
+- Kushik Nishav
+- Alouette Gagnon
+- Senalda de Castro y Navarro
 
 ***
 

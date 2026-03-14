@@ -1,0 +1,24 @@
+.gamedetails {
+  display: grid;
+  grid-template-areas:
+    "promoimg ."
+    "promoimg info"
+    "promoimg .";
+  grid-template-columns: 1fr 1fr;
+  gap: 3px;
+  padding: 5px;
+}
+.gamedetails div {
+  padding: 10px;
+}
+.gamedetails div.promoimg {
+  grid-area: promoimg;
+}
+.gamedetails div.info {
+  grid-area: info;
+  text-align: center;
+  justify-content: center;
+}
+.gamedetails div.info a {
+  background-color: white;
+}

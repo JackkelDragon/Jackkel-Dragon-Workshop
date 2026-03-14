@@ -24,5 +24,5 @@ These stories take place in the Nightshade universe, a setting based on our worl
 
 #Tentative Projects
 
-- [Mysteries of Akiramine](nightshade.moa)
+- [Mysteries of Akiramine](nightshade.mysteriesofakiramine)
 - [Those That Linger](nightshade.ttl)

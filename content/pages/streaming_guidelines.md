@@ -1,6 +1,11 @@
-Title: Streaming Guidelines
+Title: Streaming Guidelines and Presskits
 URL:
 save_as: streaming_guidelines.html
+
+- [Steaming Guidelines](#streaming)
+- [Presskits](#presskits)
+
+#Streaming Guidelines {#streaming}
 
 When streaming or recording videos of games from the Nightshade label, the following guidelines are recommended:
 
@@ -9,7 +14,7 @@ When streaming or recording videos of games from the Nightshade label, the follo
 - Full playthroughs and monetization are acceptable, but keep in mind the first note. It is also recommended to be careful about potential spoilers in titles and thumbnails.
 - Check the notes below for details specific to certain games.
 
-#Game Notes
+##Game Notes
 - Eldritch Academy: <font color="green">Safe</font>
 - Eldritch University: Can be made mostly stream-safe by avoiding these specific choices: [“Only tonight, okay?”], [I could use a happy distraction…], [I want Misaki. I love her.]
 - Life as Designed: <font color="orange">Unsafe</font> (sexual language in dialogue and narration)
@@ -20,3 +25,7 @@ When streaming or recording videos of games from the Nightshade label, the follo
 <font color="orange">Unsafe</font>: This game is not safe to stream, and may require editing to produce a gameplay recording that would be safe.
 
 Some games may have additional information about mature content warnings included on their Steam pages.
+
+#Presskits {#presskits}
+
+TBA
