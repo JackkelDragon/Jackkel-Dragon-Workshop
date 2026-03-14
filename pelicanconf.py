@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-DIRECT_TEMPLATES = ['index', 'archives']
+DIRECT_TEMPLATES = ['index', 'archives', 'tags']
 INDEX_SAVE_AS = 'updates.html'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
@@ -44,6 +44,7 @@ MENUITEMS = [("Home", "/index"), ("Nightshade", "/nightshade"), ("Kigenishi", "/
 MENUITEMS.append(("Streaming/Presskits", "/streaming_guidelines"))
 MENUITEMS.append(("Art References", "/character_references"))
 MENUITEMS.append(("Archives", "/archives"))
+MENUITEMS.append(("Tags", "/tags"))
 MENUITEMS.append(("Updates", "/updates"))
 
 RELATIVE_URLS = True
