@@ -1,0 +1,64 @@
+Title: Orino Murakami
+Category: Character References
+slug: orino
+
+<div class="refdetails">
+	<div class="info">
+		<table>
+			<tr><td>Gender</td><td>♀</td></tr>
+			<tr><td>Height</td><td>163 cm</td></tr>
+			<tr><td>Bust</td><td>B (Small)</td></tr>
+			<tr><td>Birthdate</td><td>November 19, 1985</td></tr>
+			<tr><td>Kanji Spelling</td><td>村頭織乃</td></tr>
+			<tr><td>Reference Age(s)</td><td>34~35 (FN)</td></tr>
+			<tr><td>Orientation</td><td>♀/♂</td></tr>
+		</table>
+		<hr>
+		<table>
+			<tr><td>Hair Color</td><td>#483328</td></tr>
+			<tr><td>Eye Color</td><td>#ce8d2b</td></tr>
+			<tr><td>Skin Tone</td><td>#faddbc</td></tr>
+		</table>
+	</div>
+	<div class="refgallery">
+		<ul>
+		  <li>
+		    <img src="/images/references/orino1.png"></img>
+		    <p>WIP</p>
+		  </li>
+		</ul>
+	</div>
+</div>
+
+#Important Notes
+In her late 20s, Orino got a (black ink) phoenix tattoo covering most of her upper left arm (including some of the shoulder). This tattoo is on the outer side of the arm, making it very easy for outside observers to view it. Orino doesn’t intentionally draw attention to it, but does usually wear revealing clothing that exposes her arms unless it’s too cold to do so. This tattoo is deeply personal to her, as it symbolizes her “rebirth” and thus her attempts to become a better person after the things she did while she was younger.
+
+In her 30s, Orino tends to keep her hair short while still maintaining feminine elements. She often wears tight and/or revealing clothing, having become confident enough to do so without being vain or embarrassed.
+
+After taking some time to sort out her life in her late 20s, Orino has become a calmly confident woman. She is genuinely kind to most people she meets, and she tries to resolve conflicts in a way that avoids hurt feelings. However, she takes a hard stance against bigotry and malice, and will actively attempt to shut down anyone who tries to put down or hurt others.
+
+#Story
+Orino is an only child, and her closest friend during her school days became her boyfriend in high school. When he took his own life, Orino became disillusioned with the world. She was disgusted with how people tried to minimize or explain away his death, and her pessimism quickly metastasized into outright nihilism and misanthropy. During her time at university and in early adulthood, Orino left a trail of broken hearts as she tried to fill the void inside of her, but ultimately she caused more pain than happiness. She gradually realized she was a cruel and spiteful person who was hurting those she claimed to care about, and at this point she resolved to change.
+
+Like the phoenix her tattoo represents, Orino recreated herself from the ashes of her old personality over the next few years. She slowly managed to teach herself empathy, allowing her to remember how to be kind to people she didn’t agree with. She discovered that honestly wishing for people to be their best selves gave her far more peace of mind than assuming that everyone was cruel and selfish. Eventually, she found that she could only truly dislike people who went out of their way to be malicious… especially those who refused to recognize their own cruelty.
+
+Around the time that Orino was reevaluating her life, she came to start a small bakery in Akiramine. Despite its humble beginning, it eventually grew into a business that was able to sustain Orino and allow her to employ a number of assistants.
+
+Note: The details of Orino’s life vary across the different world states (storylines) of the games she appears in. Some common traits are:
+
+- Hiring Nanami to be an assistant at the bakery. (In some storylines, Nanami is promoted to an assistant manager.)
+- Through Nanami, slowly being introduced to her friend group and becoming a friend to one or more of them.
+- Helping one or more of Nanami’s friends with some of the issues impeding their personal growth.
+
+#Likes
+- Reading novels (especially fantasy and sci-fi)
+- Supporting others in their personal growth
+
+#Dislikes
+- The consequences of her poor decisions in the past
+- Cruel or malicious people
+
+#Credits
+Original Design: Jackkel Dragon<br>
+FN Illustration: Nii<br>
+RN Illustration: Hornfelstone

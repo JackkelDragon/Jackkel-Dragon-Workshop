@@ -72,10 +72,10 @@ This page contains reference information that might be useful when creating art 
 #Unsorted Characters
 *Characters originating from other stories that have yet to be organized.*
 
-- Tsukiko Wakahisa
-- Ayuka Sawada
+- [Tsukiko Wakahisa]({filename}character_art_refs/tsukiko.md)
+- [Ayuka Sawada]({filename}character_art_refs/ayuka.md)
 - Makoto Tashiro
-- Kyoko Hayashi
+- [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
 - Shizuka Hirose
 - Yuri Tachibana
 - Nishie Hayashi
