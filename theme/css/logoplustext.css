@@ -21,3 +21,12 @@
 .logoplustext a:hover {
   background-color: white;
 }
+
+.logocentered {
+  display: flex;
+  justify-content: center;
+}
+
+.logocentered img {
+  width: 360px;
+}
