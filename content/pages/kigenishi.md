@@ -1,6 +1,8 @@
 Title: Kigenishi
 save_as: kigenishi.html
 
+<div class="logocentered"><img src="/images/kigenishi logo v1.png"></div>
+
 These stories take place in Kigenishi「起源石」, a fantasy setting loosely based on Sengoku Japan and East Asian mythology. While the stories primarily focus on the island of Kigenishi itself, some stories may expand beyond the borders of Kigenishi to other lands in the setting.
 
 #Setting Information

@@ -1,6 +1,8 @@
 Title: Tarishu
 save_as: tarishu.html
 
+<div class="logocentered"><img src="/images/tarishu logo v1.png"></div>
+
 These stories take place in Tarishu [טארישו], a fantasy setting inspired by the cultural exchange of the Silk Road.
 
 #Setting Information
