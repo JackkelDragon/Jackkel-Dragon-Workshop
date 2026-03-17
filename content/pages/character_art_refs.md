@@ -3,6 +3,8 @@ save_as: character-references.html
 
 This page contains reference information that might be useful when creating art of certain characters from my stories. The contents of this reference information includes **spoilers** for the stories and characters involved.
 
+*To view larger versions of the reference images, select them and open them in a new tab.*
+
 <font color="red">*This page is currently a work in progress, and will remain so for the foreseeable future.*</font>
 
 ***
@@ -33,11 +35,11 @@ This page contains reference information that might be useful when creating art 
 - [Kagami Nakayama]({filename}character_art_refs/kagami.md)
 - [Kasumi Kawamura]({filename}character_art_refs/kasumi.md)
 - [Misaki Asahara]({filename}character_art_refs/misaki.md)
-- Junka Fujikawa
-- Machi Hirata
-- Honoka Nakayama
-- Aina Shimizu
-- Aoi Matsumoto
+- [Junka Fujikawa]({filename}character_art_refs/junka.md)
+- [Machi Hirata]({filename}character_art_refs/machi.md)
+- [Honoka Nakayama]({filename}character_art_refs/honoka.md)
+- [Aina Shimizu]({filename}character_art_refs/aina.md)
+- [Aoi Matsumoto]({filename}character_art_refs/aoi.md)
 - [Miyuki Kouki]({filename}character_art_refs/miyuki.md)
 
 ***
@@ -74,7 +76,7 @@ This page contains reference information that might be useful when creating art 
 
 - [Tsukiko Wakahisa]({filename}character_art_refs/tsukiko.md)
 - [Ayuka Sawada]({filename}character_art_refs/ayuka.md)
-- Makoto Tashiro
+- [Makoto Tashiro]({filename}character_art_refs/makoto.md)
 - [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
 - Shizuka Hirose
 - Yuri Tachibana
@@ -91,7 +93,7 @@ This page contains reference information that might be useful when creating art 
 - Nekana Aoki
 - Aika Uchida
 - Sumire Maruyama
-- Asa Maruyama
+- [Asa Maruyama]({filename}character_art_refs/asa.md)
 - Rashmi Kushik
 - Kushik Nishav
 - Alouette Gagnon
