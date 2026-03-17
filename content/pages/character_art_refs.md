@@ -1,5 +1,5 @@
 Title: Character Art Reference Information
-save_as: character_references.html
+save_as: character-references.html
 
 This page contains reference information that might be useful when creating art of certain characters from my stories. The contents of this reference information includes **spoilers** for the stories and characters involved.
 
@@ -104,6 +104,6 @@ This page contains reference information that might be useful when creating art 
 
 (WIP stuff below)
 
-Hiragi-HOUX design credits: tsukiko (partial/w Jackkel Dragon), makoto, shizuka, yuri, nishie, kyoko, kachi, akina, ishiko, asumi, fuyu, hiroshi, minoru, hinata, kazuhiro, satoru, hatsuka, kishiko, kameyo, hideo, reiko, jun, kirie, mei, miho, chitose, ayame, sana, mio, sakura maeda, juro, iku, haru, fuka, namiko, aoife, lyra, nikoletta, isabella, kayla, seonhi, noemi, mizuyo, kana, rin, midori ishikami, kaoru asahara
+Hiragi-HOUX design credits: tsukiko (partial/w Jackkel Dragon), makoto, shizuka, yuri, nishie, kyoko, kachi, akina, ishiko, asumi, fuyu, hiroshi, minoru, hinata, kazuhiro, satoru, hatsuka, kishiko, kameyo, hideo, reiko, jun, kirie, mei, miho, chitose, ayame, sana, mio, sakura maeda, juro, iku, haru, fuka, namiko, aoife, lyra, nikoletta, isabella, kayla, seonhi, noemi, mizuyo, kana, rin, midori ishikami, kaoru asahara, hina matsubara, koharu akiyama
 
 Nii design credits: in-suk, in-shik

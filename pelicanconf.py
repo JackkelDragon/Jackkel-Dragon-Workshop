@@ -42,7 +42,7 @@ CSS_FILE = "custom.css"
 
 MENUITEMS = [("Home", "../index"), ("Nightshade", "../nightshade"), ("Kigenishi", "../kigenishi"), ("Tarishu", "../tarishu"), ("Standalone", "../standalone"), ("Fanworks", "../fanworks")]
 MENUITEMS.append(("Streaming/Presskits", "../streaming_guidelines"))
-MENUITEMS.append(("Art References", "../character_references"))
+MENUITEMS.append(("Art References", "../character-references"))
 MENUITEMS.append(("Archives", "../archives"))
 MENUITEMS.append(("Tags", "../tags"))
 MENUITEMS.append(("Updates", "../updates"))
