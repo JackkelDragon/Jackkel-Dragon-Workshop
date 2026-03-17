@@ -53,6 +53,10 @@ DELETE_OUTPUT_DIRECTORY = True
 ARTICLE_URL = ARTICLE_SAVE_AS = 'posts/{slug}.html'
 PAGE_URL = PAGE_SAVE_AS = '{category}/{slug}.html' #'pages/{slug}.html'
 
+EXTRA_PATH_METADATA = {
+    'images/favicon.ico': {'path': 'favicon.ico'},
+}
+
 ## https://github.com/pelican-plugins/markdown-include
 MD_INCLUDE_BASE_PATH = "content/includes/"
 ## syntax: {!filename!}
