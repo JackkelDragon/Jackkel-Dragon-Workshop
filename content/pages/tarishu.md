@@ -14,3 +14,7 @@ These articles provide information regarding the Tarishu setting. In the case of
 #Main Stories
 
 - [The Last Respite]({filename}tarishu/tlr.md)
+
+#Other Projects
+
+- SoT
