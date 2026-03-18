@@ -104,9 +104,11 @@ Downloads: <a href=https://www.nexusmods.com/dragonage/mods/1854/>Nexus Mods Ent
 
 The Fifth Blight has begun, and Ferelden is caught in the midst of a civil war. Rumors of an Orlesian conspiracy to further destabilize Ferelden have led a mercenary to the town of Hafter’s Rest to investigate. This mercenary and their allies must work quickly to foil the plans of these spies, or else there may not be anything left of Ferelden in the wake of the Blight.
 
-##Kigenishi for Age of Empires III: Definitive Edition
+##Kigenishi for Age of Empires II: Definitive Edition
 
-DESC TBA
+[Main Page]({filename}kigenishi/aoe2de_mod.md)
+
+##Kigenishi for Age of Empires III: Definitive Edition
 
 [Main Page]({filename}kigenishi/aoe3de_mod.md)
 

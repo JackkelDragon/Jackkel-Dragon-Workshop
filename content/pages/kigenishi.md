@@ -19,5 +19,6 @@ These articles provide information regarding the Kigenishi setting. In the case 
 
 #Other Projects
 
+- [Age of Empires II: Definitive Edition Mods]({filename}kigenishi/aoe2de_mod.md)
 - [Age of Empires III: Definitive Edition Mod]({filename}kigenishi/aoe3de_mod.md)
 - Kigenishi PbtA RPG
