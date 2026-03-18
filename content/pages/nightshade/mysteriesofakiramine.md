@@ -17,6 +17,6 @@ Despite the setbacks they have faced, their persistence will soon be rewarded wi
 
 #Story List
 
-- Undying Love
-- Out of Sight
+- [Undying Love]({filename}/pages/nightshade/mysteriesofakiramine1.md)
+- [Out of Sight]({filename}/pages/nightshade/mysteriesofakiramine2.md)
 - Homecoming *(Incomplete)*
