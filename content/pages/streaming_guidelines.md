@@ -28,4 +28,8 @@ Some games may have additional information about mature content warnings include
 
 #Presskits {#presskits}
 
-TBA
+Images for use when streaming or posting about games from the Nightshade label.<br>
+(More games may be added over time.)
+
+##Eldritch Academy
+[Download](/presskits/EA Presskit v2.zip)
