@@ -33,9 +33,9 @@ This page contains reference information that might be useful when creating art 
 ##Storm on Your Peace
 *The other members of Yae's second band, Storm on Your Peace.*
 
-- Mizuki Kawajiri
-- Hoshiko Niiya
-- Ayame Sakurano
+- [Mizuki Kawajiri]({filename}character_art_refs/mizuki.md)
+- [Hoshiko Niiya]({filename}character_art_refs/hoshiko.md)
+- [Ayame Sakurano]({filename}character_art_refs/ayame.md)
 
 ***
 
@@ -73,8 +73,34 @@ This page contains reference information that might be useful when creating art 
 - [Ayuka Sawada]({filename}character_art_refs/ayuka.md)
 - Kotoe Sugihara
 - Miraru Fujioka
+- Yasuki Mochizuki
 
 <!--include yasuki, blackfox/hiyori?-->
+
+***
+
+#Nightshade Novels
+*Characters originating from the novels set in the Nightshade universe that have visual designs.*
+
+- [Tsukiko Wakahisa]({filename}character_art_refs/tsukiko.md)
+- [Makoto Tashiro]({filename}character_art_refs/makoto.md)
+- [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
+- Nishie Hayashi
+- Kachi Hayashi
+- Shizuka Hirose
+- Yuri Tachibana
+- Akina Komatsu
+- Ishiko Yanagi
+- Asumi Niwa
+- Hatsu Kamiya
+- Iku Kobayashi
+- Haru Yamada
+- Mei Miyahara
+- Miho Muranaka
+- Ryoto Tayama
+- Yukio Iwakura
+
+<!--use married or original names for iku and haru?-->
 
 ***
 
@@ -91,6 +117,7 @@ This page contains reference information that might be useful when creating art 
 - Hiyori
 - So-hee
 - Won-shik
+- Yu-ree
 - Mul \[Great Spirit of Water\]
 - Bul \[Great Spirit of Fire\]
 
@@ -108,23 +135,16 @@ This page contains reference information that might be useful when creating art 
 #Unsorted Characters
 *Characters originating from other stories that have yet to be organized.*
 
-- [Tsukiko Wakahisa]({filename}character_art_refs/tsukiko.md)
-- [Makoto Tashiro]({filename}character_art_refs/makoto.md)
-- [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
-- Shizuka Hirose
-- Yuri Tachibana
-- Nishie Hayashi
-- Kachi Hayashi
-- Hatsu Kamiya
-- Akina Komatsu
-- Ishiko Yanagi
-- Asumi Niwa
+
 - Rashmi Kushik
 - Kushik Nishav
 - Alouette Gagnon
 - Senalda de Castro y Navarro
 - Kaoru Asahara
 - Midori Ishikami
+- Hina Matsubara
+- Koharu Akiyama
+- Fuyu Hirata
 
 ***
 
