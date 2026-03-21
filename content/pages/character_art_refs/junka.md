@@ -38,7 +38,9 @@ slug: junka
 </div>
 
 #Important Notes
-TBA
+Junka usually keeps her hair up in a ponytail, especially when at work.
+
+Junka is fairly serious most of the time, focusing more on her work than anything else. This has helped her become a good math teacher, but has left her with gaps in her social skills.
 
 #Credits
 Original Design: Hiragi-HOUX<br>

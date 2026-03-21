@@ -34,7 +34,9 @@ slug: machi
 </div>
 
 #Important Notes
-TBA
+Machi keeps her hair long, often leaving it loose during the day but tying it up at night to keep it from getting in the way of sleeping.
+
+Machi has a serious, no-nonsense demeanor that can be intimidating to those who aren't close to her. She dislikes when people act recklessly or pity her, but she is calmly competent at providing first aid in her work as a school nurse. She doesn't show affection easily, but those who know her realize that she does care deeply about the people she helps.
 
 #Credits
 Original Design: Hiragi-HOUX<br>

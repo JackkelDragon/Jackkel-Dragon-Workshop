@@ -26,15 +26,31 @@ slug: aina
 		    <p>EA (v1) Uniform</p>
 		  </li>
 		  <li>
+		    <img src="/images/references/aina2.png"></img>
+		    <p>Orininal Appearance (Hiragi-HOUX)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/aina3.png"></img>
+		    <p>Design Concept (Hiragi-HOUX)</p>
+		  </li>
+		  <li>
 		    <img src="/images/references/junka_aina_10years.png"></img>
 		    <p>Junka and Aina in 2025 Concept (Hiragi-HOUX)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/aina4.png"></img>
+		    <p>Adult Appearance Sketch (Hornfelstone)</p>
 		  </li>
 		</ul>
 	</div>
 </div>
 
 #Important Notes
-TBA
+Aina often has a tuft of stray hair (cowlick/ahoge), even when she styles her hair. She sometimes ties some hair back in a ribbon.
+
+During her first chronological appearance in Eldritch Academy, she has yet to hit her final growth spurt. She becomes taller and bustier by the time she hits nineteen years old.
+
+*personality notes WIP*
 
 #Credits
 Original Design: Hiragi-HOUX<br>

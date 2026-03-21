@@ -45,7 +45,7 @@ slug: tsukiko
 #Important Notes
 Tsukiko is rarely without her glasses. She also tends to wear headphones so often that, on some days, her hair will be pressed down where the headphones rested, even when she takes them off. She often wears a white hoodie when she goes outside.
 
-TBA
+*personality notes WIP*
 
 #Credits
 Original Design: Hiragi-HOUX and Jackkel Dragon<br>

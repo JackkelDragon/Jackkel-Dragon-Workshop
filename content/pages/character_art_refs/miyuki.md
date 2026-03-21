@@ -36,9 +36,9 @@ slug: miyuki
 </div>
 
 #Important Notes
-TBA
+Miyuki has graying hair, which has yet to overtake her original hair color but has become noticable with age. She also has central heterochromia, giving her irises a distinct appearance.
 
-(central heterochromia)
+Miyuki exhibits some of the hallmarks of sociopathy, having always struggled to experience empathy in the way most people do. While she has trained herself to utilize logic to mimic the emotional process of empathy, she often still applies cold reasoning to the situations she finds herself in. Recognizing that many consider her a freak, she has distanced herself from the company of others and generally disregards their feelings toward her.
 
 #Credits
 Original Design: Hiragi-HOUX<br>

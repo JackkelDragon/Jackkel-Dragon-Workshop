@@ -42,9 +42,9 @@ slug: makoto
 </div>
 
 #Important Notes
-TBA
+Ever since starting high school, Makoto usually dyes his (naturally brown) hair a teal green. While this was originally part of a project of self-reinvention, he generally carries on dying his hair into early adulthood.
 
-(natural hair brown, dyes his hair green)
+*personality notes WIP*
 
 #Credits
 Original Design: Hiragi-HOUX<br>
